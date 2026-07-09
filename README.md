@@ -6,7 +6,9 @@
 2. ΦΙΛΟΛΟΓΙΚΑ
 3. ΜΑΘΗΜΑΤΙΚΑ
 4. ΘΡΗΣΚΕΥΤΙΚΑ
-   Σύνδεσμος για το Σημιωματάριο στο NotebookLM: https://notebooklm.google.com/notebook/3f7f7d64-7052-4df9-9fe0-6c3aa208120d
+
+   Σύνδεσμος για το Σημειωματάριο στο NotebookLM: https://notebooklm.google.com/notebook/3f7f7d64-7052-4df9-9fe0-6c3aa208120d
+
 6. ΜΟΥΣΙΚΗ
 7. ΕΡΓΑΣΤΗΡΙΑ ΔΕΞΙΟΤΗΤΩΝ
 8. ΔΙΔΑΣΚΑΛΙΑ ΣΤΟ ΔΗΜΟΤΙΚΟ
