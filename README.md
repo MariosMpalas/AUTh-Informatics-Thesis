@@ -13,4 +13,4 @@
 7. ΕΡΓΑΣΤΗΡΙΑ ΔΕΞΙΟΤΗΤΩΝ
 8. ΔΙΔΑΣΚΑΛΙΑ ΣΤΟ ΔΗΜΟΤΙΚΟ
 
-Ο διαλόγικός πράκτορας για το μάθημα των Κειμένων Λογοτεχνίας είναι διαθέσιμος στον σύνδεσμο: https://gemini.google.com/gem/1hGhaGw7vo82s3yLTNRyXGFW9zeWzAGqG?usp=sharing
+Ο διαλογικός πράκτορας για το μάθημα των Κειμένων Λογοτεχνίας είναι διαθέσιμος στον σύνδεσμο: https://gemini.google.com/gem/1hGhaGw7vo82s3yLTNRyXGFW9zeWzAGqG?usp=sharing
