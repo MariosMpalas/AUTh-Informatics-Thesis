@@ -11,10 +11,10 @@
 3. ΜΑΘΗΜΑΤΙΚΑ
 4. ΘΡΗΣΚΕΥΤΙΚΑ
 
-   Σύνδεσμος για το Σημειωματάριο στο Gemini Notebook (πρώην NotebookLM): https://notebooklm.google.com/notebook/3f7f7d64-7052-4df9-9fe0-6c3aa208120d
+   Σύνδεσμος για το Σημειωματάριο στο Gemini Notebook (πρώην NotebookLM): https://notebook.google.com/notebook/3f7f7d64-7052-4df9-9fe0-6c3aa208120d
 
-6. ΜΟΥΣΙΚΗ
-7. ΕΡΓΑΣΤΗΡΙΑ ΔΕΞΙΟΤΗΤΩΝ
-8. ΔΙΔΑΣΚΑΛΙΑ ΣΤΟ ΔΗΜΟΤΙΚΟ
+5. ΜΟΥΣΙΚΗ
+6. ΕΡΓΑΣΤΗΡΙΑ ΔΕΞΙΟΤΗΤΩΝ
+7. ΔΙΔΑΣΚΑΛΙΑ ΣΤΟ ΔΗΜΟΤΙΚΟ
 
 Ο διαλογικός πράκτορας για το μάθημα των Κειμένων Λογοτεχνίας είναι διαθέσιμος στον σύνδεσμο: https://gemini.google.com/gem/1hGhaGw7vo82s3yLTNRyXGFW9zeWzAGqG?usp=sharing
