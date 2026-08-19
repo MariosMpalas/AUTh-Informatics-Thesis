@@ -18,6 +18,9 @@
 
 5. ΜΟΥΣΙΚΗ
 6. ΕΡΓΑΣΤΗΡΙΑ ΔΕΞΙΟΤΗΤΩΝ
+
+   Σύνδεσμος για το Σημειωματάριο στο Gemini Notebook (πρώην NotebookLM): https://notebook.google.com/notebook/b099c586-214b-4bbf-b7a6-8444a5dc4105
+
 7. ΔΙΔΑΣΚΑΛΙΑ ΣΤΟ ΔΗΜΟΤΙΚΟ
 
    Σύνδεσμος για το Σημειωματάριο στο Gemini Notebook (πρώην NotebookLM): https://notebook.google.com/notebook/e3fe16ee-3be3-4953-a792-eac7e5e51dce
